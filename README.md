@@ -1,1 +1,13 @@
-# DailyExpenseTracker[Daily Expense Tracker.docx](https://github.com/mehaab/DailyExpenseTracker/files/10454184/Daily.Expense.Tracker.docx)
+# DailyExpenseTracker
+Daily Expense Tracker 
+https://youtu.be/vwGbceVCQko
+
+Initial Empty Page
+
+
+
+Adding Expenses
+
+
+
+Final Screen
